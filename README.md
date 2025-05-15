@@ -61,7 +61,7 @@ Data Analytics with Python/R (Basics)      Optional       DataCamp, Coursera
 Communication & Leadership                 Ongoing        Toastmasters, Books, Courses
 Conflict Management & Negotiation          Planned        Books, Coursera
 Stakeholder Management                     Ongoing        LinkedIn Learning, Books
-Presentation Skills & Storytelling         Ongoing        TED Talks, Toastmasters, Coursera
+Presentation Skills & Storytelling         Ongoing        TED Talks, Toastmasters, Coursera 
 
 ---
 
