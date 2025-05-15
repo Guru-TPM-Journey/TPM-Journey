@@ -31,6 +31,7 @@ Transition into a **Technical Program Manager (TPM)** role within the next 1 - 2
 Skill/Area                                  Status       Resources
 -----------------------------------------  -----------  ----------------------------------------
 MBA in Operatins management                ✅ Joined      Sikkim Manipal University
+
 Project Management Foundations             ✅ Done        LinkedIn Learning
 Program Management Foundations             ✅ Done        LinkedIn Learning
 Agile with Jira Cloud (1–3)                ✅ Done        LinkedIn Learning
