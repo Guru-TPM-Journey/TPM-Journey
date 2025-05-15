@@ -12,7 +12,7 @@ I'm **Guru Prakash G**, currently working as a **Senior Associate Delivery Consu
 
 ## 🎯 Goal
 
-Transition into a **Technical Program Manager (TPM)** role within the next 2–3 years, and aim for top-tier companies like **Google, Amazon, or Microsoft**.
+Transition into a **Technical Program Manager (TPM)** role within the next 1 - 2 years, and aim for top-tier companies like **Google, Amazon, or Microsoft**.
 
 ---
 
