@@ -28,25 +28,39 @@ Transition into a **Technical Program Manager (TPM)** role within the next 2–3
 
 ## 🧠 Learning & Certifications
 
-| Skill/Area                             | Status     | Resources                        |
-|----------------------------------------|------------|----------------------------------|
-| Project Management Foundations         | ✅ Done    | LinkedIn Learning                |
-| Program Management Foundations         | ✅ Done    | LinkedIn Learning                |
-| Agile with Jira Cloud (1–3)            | ✅ Done    | LinkedIn Learning                |
-| Agile/Scrum                            | Planned    | Scrum.org / Atlassian            |
-| PMP Certification                      | Planned    | PMBOK, Simplilearn, LinkedIn     |
-| Google Project Management              | Planned    | Coursera                         |
-| Technical Program Management           | Planned    | Google TPM Blogs, TPM Book       |
-| SQL (Beginner to Intermediate)         | Planned    | Udemy, Khan Academy              |
-| Power BI                               | Planned    | Microsoft Learn, YouTube         |
-| Tableau                                | Planned    | Coursera, Udemy                  |
-| Google Data Studio (Looker Studio)     | Planned    | Google Analytics Academy         |
-| Advanced Excel                         | Planned    | Excel Jet, Udemy                 |
-| Data Visualization Tools (General)     | Planned    | Coursera, YouTube, Blogs         |
-| Git & GitHub                           | ✅ Started | GitHub Docs, YouTube             |
-| Cloud Platforms (AWS/Azure/GCP)        | Planned    | FreeCodeCamp, Coursera, A Cloud Guru |
-| APIs (REST, SOAP)                      | Planned    | Postman, Swagger, YouTube        |
-| Communication & Leadership             | Ongoing    | Toastmasters, Books, Courses     |
+Skill/Area                                  Status       Resources
+-----------------------------------------  -----------  ----------------------------------------
+MBA in Operatins management                ✅ Joined      Sikkim Manipal University
+Project Management Foundations             ✅ Done        LinkedIn Learning
+Program Management Foundations             ✅ Done        LinkedIn Learning
+Agile with Jira Cloud (1–3)                ✅ Done        LinkedIn Learning
+Git & GitHub                               ✅ Started      GitHub Docs, YouTube
+Agile/Scrum                                Planned        Scrum.org / Atlassian
+Certified ScrumMaster (CSM) / PSM I        Planned        Scrum Alliance / Scrum.org
+PMP Certification                          Planned        PMBOK, Simplilearn, LinkedIn
+Google Project Management                  ✅ Started     Coursera
+Lean Six Sigma Green Belt                  Planned        Coursera, Simplilearn
+SAFe Agilist (Scaled Agile Framework)      Planned        Scaled Agile Inc.
+ITIL Foundation                            Planned        AXELOS
+Technical Program Management               Planned        Google TPM Blogs, TPM Book
+SQL (Beginner to Intermediate)             Planned        Udemy, Khan Academy
+Advanced System Design                     Planned        Grokking System Design, Educative.io
+Containerization & Kubernetes Basics       Planned        Udemy, Pluralsight
+CI/CD Concepts & Tools                     Planned        Jenkins, GitHub Actions Basics
+Cloud Platforms (AWS/Azure/GCP)            Planned        FreeCodeCamp, Coursera, A Cloud Guru
+AWS Certified Cloud Practitioner           Planned        AWS Training, Udemy
+Networking Basics                          Planned        CompTIA Network+ free resources
+APIs (REST, SOAP)                          Planned        Postman, Swagger, YouTube
+Power BI                                   Planned        Microsoft Learn, YouTube
+Tableau                                    Planned        Coursera, Udemy
+Google Data Studio (Looker Studio)         Planned        Google Analytics Academy
+Advanced Excel                             Planned        Excel Jet, Udemy
+Data Visualization Tools (General)         Planned        Coursera, YouTube, Blogs
+Data Analytics with Python/R (Basics)      Optional       DataCamp, Coursera
+Communication & Leadership                 Ongoing        Toastmasters, Books, Courses
+Conflict Management & Negotiation          Planned        Books, Coursera
+Stakeholder Management                     Ongoing        LinkedIn Learning, Books
+Presentation Skills & Storytelling         Ongoing        TED Talks, Toastmasters, Coursera
 
 ---
 
